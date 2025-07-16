@@ -1,7 +1,8 @@
 baseURL = "https://ritaliiii.github.io/"
 title = "Ning Li"
 theme = "PaperMod"
-paginate = 5
+[pagination]
+  pagerSize = 5
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -20,6 +21,7 @@ buildExpired = false
   defaultTheme = "auto"
   disableThemeToggle = false
 
+
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -29,21 +31,34 @@ buildExpired = false
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
 
-  # 
-  homeInfoParams = { 
-    Title = "Hi, I'm Ning 👋",
-    Content = "Welcome to my portfolio. I'm a data professional passionate about turning data into insights."
-  }
+[params.profileMode]
+    enabled = true
+    title = "Hey! I'm Ning 👋"
+    subtitle = "Data Engineering | Data Analytics | Business Intelligence\n\nOpen to opportunities, let's connect!"
+    imageUrl = "/images/ning.jpg"
+    imageTitle = "Ning Li"
+    imageWidth = 300
+    imageHeight = 300
 
-  # 🔗 Social icons
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/projects/"
+
+    [[params.profileMode.buttons]]
+      name = "Resume"
+      url = "/resume/"
+
+
+  # Social Icons
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/ritaliiii"
+
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/ning-li-rita"
 
-  # 🧭 Top navigation menu
+# Top navigation menu
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -68,3 +83,8 @@ buildExpired = false
     name = "Resume"
     url = "/resume.pdf"
     weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
