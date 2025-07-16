@@ -1,4 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = "https://ritaliiii.github.io/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Ning Li'
 theme = "PaperMod"
+
+[params]
+  author = "Ning Li"
+  showBreadCrumbs = true
+  ShowReadingTime = true
+  showCodeCopyButtons = true
+  defaultTheme = "auto"
