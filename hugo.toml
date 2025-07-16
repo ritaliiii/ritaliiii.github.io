@@ -1,11 +1,70 @@
 baseURL = "https://ritaliiii.github.io/"
-languageCode = 'en-us'
-title = 'Ning Li'
+title = "Ning Li"
 theme = "PaperMod"
+paginate = 5
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
 
 [params]
+  env = "production"
+  title = "Ning Li"
+  description = "Data Engineering | Data Analytics | Business Intelligence | Portfolio"
+  keywords = ["Portfolio", "Data Engineering", "Data Analytics", "Business Intelligence"]
   author = "Ning Li"
-  showBreadCrumbs = true
-  ShowReadingTime = true
-  showCodeCopyButtons = true
   defaultTheme = "auto"
+  disableThemeToggle = false
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+
+  # 
+  homeInfoParams = { 
+    Title = "Hi, I'm Ning 👋",
+    Content = "Welcome to my portfolio. I'm a data professional passionate about turning data into insights."
+  }
+
+  # 🔗 Social icons
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ritaliiii"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/ning-li-rita"
+
+  # 🧭 Top navigation menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume.pdf"
+    weight = 40
