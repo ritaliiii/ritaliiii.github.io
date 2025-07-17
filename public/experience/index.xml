@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Experiences on Ning Li</title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on Ning Li</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Experience</title>
+      <link>http://localhost:1313/experience/academic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/academic/</guid>
+      <description>Degrees in Computer Science, Law, and Business from Northeastern, Northwestern, and Boston University</description>
+    </item>
+    <item>
+      <title>Professional Experience</title>
+      <link>http://localhost:1313/experience/professional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/professional/</guid>
+      <description>Internships at Sephora, NetEase, and Amazon, focusing on data analytics, dashboard migration, automation, and business insights.</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/experience/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/skills/</guid>
+      <description>Proficient in SQL, Python, and R, with hands-on experience in data engineering, BI tools, dashboard development, and statistical analysis.</description>
+    </item>
+  </channel>
+</rss>

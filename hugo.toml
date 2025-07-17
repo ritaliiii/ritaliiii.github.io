@@ -17,17 +17,18 @@ buildExpired = false
   title = "Ning Li"
   description = "Data Engineering | Data Analytics | Business Intelligence | Portfolio"
   keywords = ["Portfolio", "Data Engineering", "Data Analytics", "Business Intelligence"]
-  author = "Ning Li"
+  # author = "Ning Li"
   defaultTheme = "auto"
   disableThemeToggle = false
 
 
+  ShowAuthor = false
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  ShowWordCount = true
+  ShowWordCount = false
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
 
@@ -47,7 +48,9 @@ buildExpired = false
     [[params.profileMode.buttons]]
       name = "Resume"
       url = "/resume/"
-
+      
+[params.assets]
+  css = ["css/custom.css"]
 
   # Social Icons
   [[params.socialIcons]]
@@ -67,15 +70,15 @@ buildExpired = false
     weight = 10
 
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
+    identifier = "experience"
+    name = "Experience"
+    url = "/experience/"
     weight = 20
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
     weight = 30
 
   [[menu.main]]

@@ -2,23 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ning Li</title>
-    <link>https://ritaliiii.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ning Li</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Jul 2025 13:57:13 -0700</lastBuildDate>
-    <atom:link href="https://ritaliiii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://ritaliiii.github.io/about/</link>
-      <pubDate>Wed, 16 Jul 2025 13:57:13 -0700</pubDate>
-      <guid>https://ritaliiii.github.io/about/</guid>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;
-  &lt;img src=&#34;https://ritaliiii.github.io/images/profile.jpg&#34; alt=&#34;profile&#34; width=&#34;200&#34; style=&#34;float: right; margin-left: 20px; margin-bottom: 10px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/profile.jpg&#34; alt=&#34;profile&#34; width=&#34;200&#34; style=&#34;float: right; margin-left: 20px; margin-bottom: 10px;&#34;&gt;
 &lt;/p&gt;
 &lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Ning Li&lt;/strong&gt; — a data professional with a passion for transforming raw data into meaningful insights.&lt;/p&gt;
 &lt;p&gt;Currently, I’m a &lt;strong&gt;Data Analyst Intern&lt;/strong&gt; at &lt;strong&gt;Sephora’s Retail Data Technology team&lt;/strong&gt;, where I help migrate dashboards from Tableau to ThoughtSpot, validate data in Databricks, and ensure metric accuracy aligns with SLA standards. I thrive on building systems that help teams make smarter, faster decisions.&lt;/p&gt;
 &lt;p&gt;Previously, I gained hands-on experience at &lt;strong&gt;Amazon&lt;/strong&gt; and &lt;strong&gt;NetEase&lt;/strong&gt;, automating performance metric pipelines with Python, writing complex SQL queries, and building dashboards in Tableau and Power BI to support business operations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Academic Experience</title>
+      <link>http://localhost:1313/experience/academic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/academic/</guid>
+      <description>Degrees in Computer Science, Law, and Business from Northeastern, Northwestern, and Boston University</description>
+    </item>
+    <item>
+      <title>Professional Experience</title>
+      <link>http://localhost:1313/experience/professional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/professional/</guid>
+      <description>Internships at Sephora, NetEase, and Amazon, focusing on data analytics, dashboard migration, automation, and business insights.</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/experience/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/skills/</guid>
+      <description>Proficient in SQL, Python, and R, with hands-on experience in data engineering, BI tools, dashboard development, and statistical analysis.</description>
     </item>
   </channel>
 </rss>
