@@ -63,6 +63,10 @@ buildExpired = false
     name = "linkedin"
     url = "https://www.linkedin.com/in/ning-li-rita"
 
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:li.ning2@northeastern.edu"
+
 # Top navigation menu
 [menu]
   [[menu.main]]
