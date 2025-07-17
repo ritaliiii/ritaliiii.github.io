@@ -1,12 +1,14 @@
 baseURL = "https://ritaliiii.github.io/"
 title = "Ning Li"
 theme = "PaperMod"
+publishDir = "docs"
 [pagination]
   pagerSize = 5
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
+
 
 [minify]
   disableXML = true
@@ -48,7 +50,7 @@ buildExpired = false
     [[params.profileMode.buttons]]
       name = "Resume"
       url = "/resume/"
-      
+
 [params.assets]
   css = ["css/custom.css"]
 
@@ -92,4 +94,4 @@ buildExpired = false
     [markup.goldmark.renderer]
       unsafe = true
       
-publishDir = "docs"
+
