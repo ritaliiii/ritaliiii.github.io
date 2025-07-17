@@ -49,7 +49,7 @@ buildExpired = false
 
     [[params.profileMode.buttons]]
       name = "Resume"
-      url = "/resume/"
+      url = "/resume.jpg"
 
 [params.assets]
   css = ["css/custom.css"]
@@ -86,7 +86,7 @@ buildExpired = false
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "/resume.pdf"
+    url = "/resume.jpg"
     weight = 40
 
 [markup]
