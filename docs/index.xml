@@ -36,6 +36,41 @@
       <description>Degrees in Computer Science, Law, and Business from Northeastern, Northwestern, and Boston University</description>
     </item>
     <item>
+      <title>COVID-19 Global Dashboard</title>
+      <link>https://ritaliiii.github.io/projects/covid-19-global-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ritaliiii.github.io/projects/covid-19-global-dashboard/</guid>
+      <description>An interactive Tableau dashboard visualizing global COVID-19 confirmed cases and deaths over time with geospatial and trend visualizations.</description>
+    </item>
+    <item>
+      <title>Iris Dataset EDA</title>
+      <link>https://ritaliiii.github.io/projects/iris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ritaliiii.github.io/projects/iris/</guid>
+      <description>Exploratory Data Analysis of the classic Iris flower dataset using Python.</description>
+    </item>
+    <item>
+      <title>Movie Ratings, Genres &amp; Financial Performance Analysis</title>
+      <link>https://ritaliiii.github.io/projects/movie-rating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ritaliiii.github.io/projects/movie-rating/</guid>
+      <description>An analysis of 45k+ movies exploring how genres, ratings, and budgets relate to ROI and audience approval using Kaggle&amp;rsquo;s Movies Dataset.</description>
+    </item>
+    <item>
+      <title>Pharmaceutical Data Pipeline &amp; Sales Analysis</title>
+      <link>https://ritaliiii.github.io/projects/pharmaceutical-data-pipeline--sales-analysis-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ritaliiii.github.io/projects/pharmaceutical-data-pipeline--sales-analysis-project/</guid>
+      <description>Built a complete data pipeline and analysis solution for a pharmaceutical sales system.</description>
+    </item>
+    <item>
+      <title>Predicting Online Advertising Click-Through Rates (CTR)</title>
+      <link>https://ritaliiii.github.io/projects/ctr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ritaliiii.github.io/projects/ctr/</guid>
+      <description>CTR prediction using structured features, TF-IDF text processing, and a weighted soft voting ensemble of ML models. Final model achieves 0.86 accuracy.</description>
+    </item>
+    <item>
       <title>Professional Experience</title>
       <link>https://ritaliiii.github.io/experience/professional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
