@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://ritaliiii.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/academic/</loc>
+    <loc>https://ritaliiii.github.io/experience/academic/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ritaliiii.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://ritaliiii.github.io/experience/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ritaliiii.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/professional/</loc>
+    <loc>https://ritaliiii.github.io/experience/professional/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/skills/</loc>
+    <loc>https://ritaliiii.github.io/experience/skills/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ritaliiii.github.io/tags/</loc>
   </url>
 </urlset>
