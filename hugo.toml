@@ -86,7 +86,7 @@ buildExpired = false
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "/resume.jpg"
+    url = "/resume/"
     weight = 40
 
 [markup]

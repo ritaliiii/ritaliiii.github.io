@@ -2,18 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ning Li</title>
-    <link>https://ritaliiii.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ning Li</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <atom:link href="https://ritaliiii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;
+  &lt;img src=&#34;http://localhost:1313/resume.jpg&#34; alt=&#34;resume&#34; width=&#34;1500&#34; style=&#34;float: center;&#34;&gt;
+&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://ritaliiii.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ritaliiii.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;
-  &lt;img src=&#34;https://ritaliiii.github.io/images/profile.jpg&#34; alt=&#34;profile&#34; width=&#34;200&#34; style=&#34;float: right; margin-left: 20px; margin-bottom: 10px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/profile.jpg&#34; alt=&#34;profile&#34; width=&#34;200&#34; style=&#34;float: right; margin-left: 20px; margin-bottom: 10px;&#34;&gt;
 &lt;/p&gt;
 &lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Ning Li&lt;/strong&gt; — a data professional with a passion for transforming raw data into meaningful insights.&lt;/p&gt;
 &lt;p&gt;Currently, I’m a &lt;strong&gt;Data Analyst Intern&lt;/strong&gt; at &lt;strong&gt;Sephora’s Retail Data Technology team&lt;/strong&gt;, where I help migrate dashboards from Tableau to ThoughtSpot, validate data in Databricks, and ensure metric accuracy aligns with SLA standards. I thrive on building systems that help teams make smarter, faster decisions.&lt;/p&gt;
@@ -21,23 +30,23 @@
     </item>
     <item>
       <title>Academic Experience</title>
-      <link>https://ritaliiii.github.io/experience/academic/</link>
+      <link>http://localhost:1313/experience/academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ritaliiii.github.io/experience/academic/</guid>
+      <guid>http://localhost:1313/experience/academic/</guid>
       <description>Degrees in Computer Science, Law, and Business from Northeastern, Northwestern, and Boston University</description>
     </item>
     <item>
       <title>Professional Experience</title>
-      <link>https://ritaliiii.github.io/experience/professional/</link>
+      <link>http://localhost:1313/experience/professional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ritaliiii.github.io/experience/professional/</guid>
+      <guid>http://localhost:1313/experience/professional/</guid>
       <description>Internships at Sephora, NetEase, and Amazon, focusing on data analytics, dashboard migration, automation, and business insights.</description>
     </item>
     <item>
       <title>Skills</title>
-      <link>https://ritaliiii.github.io/experience/skills/</link>
+      <link>http://localhost:1313/experience/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ritaliiii.github.io/experience/skills/</guid>
+      <guid>http://localhost:1313/experience/skills/</guid>
       <description>Proficient in SQL, Python, and R, with hands-on experience in data engineering, BI tools, dashboard development, and statistical analysis.</description>
     </item>
   </channel>
